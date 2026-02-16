@@ -1,3 +1,0 @@
-editor de texto reservado para treinamento da aula de GIT
-texto de alteração
-alt
