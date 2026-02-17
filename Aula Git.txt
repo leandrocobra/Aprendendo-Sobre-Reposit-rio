@@ -1,1 +1,2 @@
 editor de texto reservado para treinamento da aula de GIT
+fazendo alteração no repositório remoto para aprender fetch e pull
